@@ -187,3 +187,10 @@ Your system provides:
 * Advanced deep learning models
 * Multi-language support
 * Better semantic matching
+
+---
+
+## 👨‍💻 Authors
+
+* **Hely Vachhani**
+* **Krisha Doshi**
