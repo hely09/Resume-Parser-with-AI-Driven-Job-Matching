@@ -1,0 +1,11 @@
+streamlit==1.31.0
+pdfminer.six==20221105
+spacy==3.7.2
+sentence-transformers==2.3.1
+scikit-learn==1.4.0
+xgboost==2.0.3
+pandas==2.2.0
+numpy==1.26.3
+tqdm==4.66.1
+chromadb==0.4.22
+plotly==5.18.0
